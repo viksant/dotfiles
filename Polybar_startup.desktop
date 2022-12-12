@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/viksant/.config/polybar/launch.sh &
+Icon=dialog-scripts
+Name=polybar_startup
+Path=/home/viksant/.config/polybar
+Type=Application
+X-KDE-AutostartScript=true
