@@ -13,3 +13,6 @@ polybar bar1 2>&1 | tee -a /tmp/polybar2.log & disown
 echo "Bars launched..."
 
 sleep infinity
+
+
+[m3K~L3=(r}L6[R&zAE#Nw=5{8L*_ma:
